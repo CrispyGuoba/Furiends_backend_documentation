@@ -1,12 +1,8 @@
-![logo](/media/Gakki-s.jpg)
 
-# docsify
 
-> A magical documentation site generator.
+# Furiends后端技术文档
 
-* Simple and lightweight (~12kb gzipped)
-* Multiple themes
-* Not build static html files
+> 开源，共享，严谨，进步
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[GitHub](https://crispyguoba.github.io/Furiends_backend_documentation/)
 [Get Started](/quick-start)
